@@ -13,7 +13,7 @@
     "version": "6.2.1",
     "config": {
       "host": "text",
-      "port": "number",
+      "port": "number"
     }
   }
 ]
