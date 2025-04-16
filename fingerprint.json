@@ -1,0 +1,11 @@
+[
+  {
+    "platform": "VMLogin",
+    "version": "6.1.1",
+    "config": {
+      "host": "text",
+      "port": "number",
+      "token": "text",
+    }
+  }
+]
