@@ -7,5 +7,13 @@
       "port": "number",
       "token": "text"
     }
+  },
+  {
+    "platform": "Linken",
+    "version": "6.2.1",
+    "config": {
+      "host": "text",
+      "port": "number",
+    }
   }
 ]
