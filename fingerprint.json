@@ -5,7 +5,8 @@
     "config": {
       "host": "text",
       "port": "number",
-      "token": "text"
+      "token": "text",
+      "version": "number"
     }
   },
   {
